@@ -1,0 +1,1 @@
+# Anthropic Agent Building Block: One-Time Generation vs Workflows

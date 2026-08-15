@@ -1,0 +1,1 @@
+# Novel Writing Pattern with Orchestrator-Workers
